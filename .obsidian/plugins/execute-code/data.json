@@ -1,0 +1,12 @@
+{
+  "timeout": 10000,
+  "nodePath": "/usr/local/bin/node",
+  "nodeArgs": "",
+  "pythonPath": "python",
+  "pythonArgs": "",
+  "pythonEmbedPlots": true,
+  "shellPath": "bash",
+  "shellArgs": "",
+  "shellFileExtension": "sh",
+  "maxPrologAnswers": 15
+}

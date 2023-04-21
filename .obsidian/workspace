@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "485a9449fabcad54",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cff5272cbc03543",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettelkasten/Referencias Visuales de Terraform.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f8ec80babf7f83d",
+    "type": "split",
+    "children": [
+      {
+        "id": "65b782b2231bfd35",
+        "type": "tabs",
+        "dimension": 74.42159383033419,
+        "children": [
+          {
+            "id": "8195ff68c8bf1e10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a20527b0ebf25ea9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#trees",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fe7f506fdbccbcc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "36dfe01554f0fb07",
+        "type": "tabs",
+        "dimension": 25.578406169665808,
+        "children": [
+          {
+            "id": "dbd9eb35ea301906",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettelkasten/Referencias Visuales de Terraform.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "94bd3c63d9979a13",
+    "type": "split",
+    "children": [
+      {
+        "id": "39d943fa363d9c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df413b69303cad39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "2cff5272cbc03543",
+  "lastOpenFiles": [
+    "Zettelkasten/Terraform.md",
+    "Zettelkasten/Terminología.md",
+    "Zettelkasten/Cloud Computing.md",
+    "Zettelkasten/Tipos de Árboles.md",
+    "Zettelkasten/Terraform IaC Code Blocks.md",
+    "Templates/Algoritmo.md",
+    "Templates/Snippet.md",
+    "Templates/Referencia Bibliográfica.md",
+    "Templates/Receta.md",
+    "Templates/Journal Entry.md"
+  ]
+}

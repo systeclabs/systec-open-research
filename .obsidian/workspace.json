@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "485a9449fabcad54",
+    "type": "split",
+    "children": [
+      {
+        "id": "77512dccd1a3c94f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1135b288b1648b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f8ec80babf7f83d",
+    "type": "split",
+    "children": [
+      {
+        "id": "65b782b2231bfd35",
+        "type": "tabs",
+        "dimension": 74.42159383033419,
+        "children": [
+          {
+            "id": "8195ff68c8bf1e10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a20527b0ebf25ea9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#estructuras-de-datos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fe7f506fdbccbcc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "36dfe01554f0fb07",
+        "type": "tabs",
+        "dimension": 25.578406169665808,
+        "children": [
+          {
+            "id": "dbd9eb35ea301906",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 412.5
+  },
+  "right": {
+    "id": "94bd3c63d9979a13",
+    "type": "split",
+    "children": [
+      {
+        "id": "39d943fa363d9c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df413b69303cad39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-calibre-plugin:Calibre": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "1135b288b1648b84",
+  "lastOpenFiles": [
+    "Algos & DS/Visualización Árboles (Trees).md",
+    "Algos & DS/Ventana Deslizante (Sliding Window).md",
+    "Algos & DS/Tipos de Árboles.md",
+    "Algos & DS/Terminología.md",
+    "Algos & DS/Representación visual Ventana Deslizante -.md",
+    "Algos & DS/Representación Visual Binary Search.md",
+    "Algos & DS/Búsqueda Binaria (Binary Search).md",
+    "Algos & DS/Bubble Sort.md",
+    "Algos & DS/Búsqueda de Árbol Binaria (Binary Search Tree).md",
+    "Personal/Role - MERN.md",
+    "Personal/Role - MS Integration.md",
+    "Programming/Challenges/Automata Celular.md",
+    "Home.md",
+    "Programming/Patrones de Código/Patrones de Código para Entrevistas.md",
+    "Programming/Patrones de Código/Find average of subarrays.md",
+    "Templates/Algoritmo.md",
+    "Archivos/Pasted image 20230417123451.png",
+    "Archivos/Job Application for Senior Software Engineer, Microsoft Integrations at Mural.pdf",
+    "Personal",
+    "Blockchain/Digital Economy Guide.md",
+    "Blockchain/Bitcoin Lighting Network.md",
+    "Blockchain/Blockchain.md",
+    "Cloud Computing/Terraform.md",
+    "Cloud Computing/Referencias Visuales de Terraform.md",
+    "Cloud Computing/Packer.md",
+    "Cloud Computing/Opciones de Planeación Personalizada.md",
+    "Cloud Computing/Deploy Manager.md",
+    "Cloud Computing/Cloud Formation.md",
+    "Cloud Computing/Cloud Computing.md",
+    "Programming/Patrones de Código",
+    "Programming/Javascript",
+    "Programming/Challenges"
+  ]
+}
