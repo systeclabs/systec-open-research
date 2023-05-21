@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "99dbd5fae7ecbbb5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Retos de Código/Validar Sub-secuencia.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "5beea246f154b3c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b51f57562db920da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmos/Búsqueda de Árbol Binaria (Binary Search Tree).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos de Código/Validar Sub-secuencia.md",
+                "file": "Algoritmos/Búsqueda de Árbol Binaria (Binary Search Tree).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,8 +145,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "99dbd5fae7ecbbb5",
+  "active": "8195ff68c8bf1e10",
   "lastOpenFiles": [
+    "Algoritmos/Búsqueda Binaria (Binary Search).md",
+    "Algoritmos/Bubble Sort.md",
+    "Algoritmos/Big O Notation.md",
+    "Algoritmos/Representación Visual Binary Search.md",
+    "Algoritmos/Representación visual Ventana Deslizante -.md",
+    "Algoritmos/Búsqueda de Árbol Binaria (Binary Search Tree).md",
+    "Algoritmos/Terminología.md",
+    "Algoritmos/Ventana Deslizante (Sliding Window).md",
+    "Algoritmos/Visualización Árboles (Trees).md",
+    "Artificial Intelligence/Introduction a la IA.md",
+    "Artificial Intelligence/Guia de Inicio - AI on Azure.md",
+    "Artificial Intelligence/AI para Principiantes.md",
+    "Home.md",
     "Retos de Código/Suma de Dos Numeros.md",
     "Retos de Código/Automata Celular.md",
     "Javascript/10-Programación Funcional.md",
@@ -154,20 +173,7 @@
     "Javascript/01-Argumentos.md",
     "Blockchain/Digital Economy Guide.md",
     "Blockchain/Blockchain.md",
-    "Blockchain/Bitcoin Lighting Network.md",
-    "Cloud Computing/Terraform IaC Code Blocks.md",
-    "Cloud Computing/Terraform.md",
-    "Cloud Computing/Referencias Visuales de Terraform.md",
-    "Cloud Computing/Packer.md",
-    "Cloud Computing/Opciones de Planeación Personalizada.md",
-    "Cloud Computing/Deploy Manager.md",
-    "Cloud Computing/Cloud Formation.md",
-    "Cloud Computing/Cloud Computing.md",
-    "Cloud Computing/Ansible.md",
-    "Systems Design/Guidelines.md",
     "Untitled.canvas",
-    "Home.md",
-    "Artificial Intelligence/Introduction a la IA.md",
     "Internet of Things",
     "CyberSec",
     "GIT Fundamentos/LICENSE",
