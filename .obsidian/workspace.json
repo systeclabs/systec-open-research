@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "77512dccd1a3c94f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1135b288b1648b84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+        "id": "99dbd5fae7ecbbb5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Retos de Código/Validar Sub-secuencia.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
-        ]
+        }
       }
     ],
     "direction": "vertical"
@@ -66,6 +60,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "60bc8e366a5da3ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
@@ -80,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Retos de Código/Validar Sub-secuencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 313.5124969482422
   },
   "right": {
     "id": "94bd3c63d9979a13",
@@ -125,42 +127,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-calibre-plugin:Calibre": false,
-      "homepage:Open homepage": false,
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-calibre-plugin:Calibre": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "1135b288b1648b84",
+  "active": "99dbd5fae7ecbbb5",
   "lastOpenFiles": [
-    "Algos & DS/Visualización Árboles (Trees).md",
-    "Algos & DS/Ventana Deslizante (Sliding Window).md",
-    "Algos & DS/Tipos de Árboles.md",
-    "Algos & DS/Terminología.md",
-    "Algos & DS/Representación visual Ventana Deslizante -.md",
-    "Algos & DS/Representación Visual Binary Search.md",
-    "Algos & DS/Búsqueda Binaria (Binary Search).md",
-    "Algos & DS/Bubble Sort.md",
-    "Algos & DS/Búsqueda de Árbol Binaria (Binary Search Tree).md",
-    "Personal/Role - MERN.md",
-    "Personal/Role - MS Integration.md",
-    "Programming/Challenges/Automata Celular.md",
-    "Home.md",
-    "Programming/Patrones de Código/Patrones de Código para Entrevistas.md",
-    "Programming/Patrones de Código/Find average of subarrays.md",
-    "Templates/Algoritmo.md",
-    "Archivos/Pasted image 20230417123451.png",
-    "Archivos/Job Application for Senior Software Engineer, Microsoft Integrations at Mural.pdf",
-    "Personal",
+    "Retos de Código/Suma de Dos Numeros.md",
+    "Retos de Código/Automata Celular.md",
+    "Javascript/10-Programación Funcional.md",
+    "Javascript/09-Function factories.md",
+    "Javascript/08-Closures - Callbacks.md",
+    "Javascript/06-Call - Apply - Bind.md",
+    "Javascript/05-Por Valor - Por Referencia.md",
+    "Javascript/04-Construyendo Objetos.md",
+    "Javascript/03-For in.md",
+    "Javascript/02-Arrays.md",
+    "Javascript/01-Argumentos.md",
     "Blockchain/Digital Economy Guide.md",
-    "Blockchain/Bitcoin Lighting Network.md",
     "Blockchain/Blockchain.md",
+    "Blockchain/Bitcoin Lighting Network.md",
+    "Cloud Computing/Terraform IaC Code Blocks.md",
     "Cloud Computing/Terraform.md",
     "Cloud Computing/Referencias Visuales de Terraform.md",
     "Cloud Computing/Packer.md",
@@ -168,8 +163,30 @@
     "Cloud Computing/Deploy Manager.md",
     "Cloud Computing/Cloud Formation.md",
     "Cloud Computing/Cloud Computing.md",
-    "Programming/Patrones de Código",
-    "Programming/Javascript",
-    "Programming/Challenges"
+    "Cloud Computing/Ansible.md",
+    "Systems Design/Guidelines.md",
+    "Untitled.canvas",
+    "Home.md",
+    "Artificial Intelligence/Introduction a la IA.md",
+    "Internet of Things",
+    "CyberSec",
+    "GIT Fundamentos/LICENSE",
+    "GIT Fundamentos",
+    "fundamentos-git/LICENSE",
+    "fundamentos-git",
+    "Javascript",
+    "Archivos/Screen Shot 2023-04-30 at 21.20.10.png",
+    "Archivos/Screen Shot 2023-04-30 at 20.50.54.png",
+    "Archivos/Screen Shot 2023-04-30 at 19.59.41.png",
+    "Archivos/Screen Shot 2023-04-30 at 19.52.06.png",
+    "Archivos/anomaly-detection.gif",
+    "Archivos/machine-learn.gif",
+    "Archivos/Screen Shot 2023-04-30 at 9.08.20.png",
+    "Archivos/Screen Shot 2023-04-30 at 9.08.07.png",
+    "Archivos/Pasted image 20230430085458.png",
+    "Artificial Intelligence",
+    "Archivos/Job Application for Senior Software Engineer, Microsoft Integrations at Mural.pdf",
+    "Estructuras de Datos",
+    "Archivos/Pasted image 20230417123451.png"
   ]
 }
